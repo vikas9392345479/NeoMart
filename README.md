@@ -38,7 +38,7 @@ Check out the live demo (once deployed) or explore the codebase to see how it wo
 ## 📎 Links
 
 - 🔗 **Live Demo**: [Coming Soon or Your URL here]
-- 🔗 **GitHub Repo**: [https://github.com/vikas9392345479/Quickcart](https://github.com/vikas9392345479/Quickcart)
+- 🔗 **GitHub Repo**: [https://github.com/vikas9392345479/NeoMart]
 
 ---
 
